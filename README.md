@@ -49,6 +49,9 @@ Atualmente sou membro ativo da Liga Acadêmica Matemática e Empresa e tenho int
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
 </div>
+
+![Snake](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/snake-output/snake.svg)
+
 <!--
 **KaueSr/KaueSr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
