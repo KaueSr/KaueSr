@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=SEU_NOME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Área+1+%7C+Área+2+%7C+Área+3&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
@@ -50,7 +49,7 @@ Atualmente sou membro ativo da Liga Acadêmica Matemática e Empresa e tenho int
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
 </div>
 
-![Snake](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/snake-output/snake.svg)
+![Snake](https://raw.githubusercontent.com/KaueSr/KaueSr/snake-output/snake.svg)
 
 <!--
 **KaueSr/KaueSr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
