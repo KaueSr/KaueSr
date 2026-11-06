@@ -17,7 +17,7 @@
 
 <!-- Badge da instituição — substitua NOME+DO+CURSO, NOME+DA+INSTITUIÇÃO e a cor (006400 = verde escuro) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Matemática Aplicada e Computacional-UFS-004684?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matemática Pura-UFS-004684?style=for-the-badge"/>
 </div>
 
 <br/>
